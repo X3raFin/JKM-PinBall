@@ -1,0 +1,7 @@
+# Use Unity Smart Merge (YAML Merge) for these asset types
+*.unity merge=unityyamlmerge eol=lf
+*.prefab merge=unityyamlmerge eol=lf
+*.asset merge=unityyamlmerge eol=lf
+*.anim merge=unityyamlmerge eol=lf
+*.controller merge=unityyamlmerge eol=lf
+*.mat merge=unityyamlmerge eol=lf
